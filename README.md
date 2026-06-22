@@ -33,17 +33,8 @@ jobs:
           github_user_name: Vignesh-530
           name: Generate Snake
           <h1 align="center">Hi 👋, I'm Mudam Vignesh</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-530&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-530" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh-530" alt="vignesh-530" /></a> </p>
-
-- 🔭 I’m currently working on **E-Commerce Application (Spring Boot, React, MySQL)**
-
-- 🌱 I’m currently learning **Spring Boot, Microservices, React JS, Data Structures & Algorithms.**
-
-- 📫 How to reach me **vigneshpatelmudam074@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
