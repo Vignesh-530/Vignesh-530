@@ -2,30 +2,28 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vignesh+Patel;Aspiring+Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Vignesh+Patel;Aspiring+Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Things!" />
 
-<br><br>
+<br>
 
-<img width="420" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-laptop-6299516-5187865.png">
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<h1>☕ Java Full Stack Developer</h1>
+# ☕ Java Full Stack Developer
 
-<p>
-Building scalable applications with Java, Spring Boot, React, SQL and MongoDB.
-</p>
+### Building scalable applications with Java, Spring Boot, React, SQL & MongoDB
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="320" src="https://cdn3d.iconscout.com/3d/premium/thumb/software-engineer-5695775-4753871.png">
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ```java
 public class Vignesh {
 
-    String role = "Java Developer";
+    String role = "Java Full Stack Developer";
 
     String[] skills = {
         "Java",
@@ -39,106 +37,129 @@ public class Vignesh {
     String currentFocus = "Backend Development";
 
     String goal = "Software Engineer";
+
 }
 ```
 
----
+### 🚀 I am
 
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,git,github,vscode,idea,html,css,js,maven"/>
-
-</p>
+- 💻 Java Full Stack Developer
+- 🌱 Learning Spring Boot & Microservices
+- 🛠 Building REST APIs
+- 📚 Solving DSA Problems Daily
+- 🎯 Goal: Software Engineer
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Tech Stack
 
 <div align="center">
 
-| 🚀 Project                    | 💻 Technology              |
-| ----------------------------- | --------------------------  |
-| 🏥 Hospital Management System | Java + JDBC + MySQL         |
-| 🍔 Online Restaurant App      | MERN Stack                  |
-|  🛒 E-Commerce Application    | Spring Boot • React • MySQL |
-| 📦 Product Management API     | Spring Boot                 |
- 
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,git,github,vscode,idea,html,css,js,maven"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+| 🚀 Project | 💻 Technology |
+|------------|---------------|
+| 🏥 Hospital Management System | Java + JDBC + MySQL |
+| 🍔 Online Restaurant App | MERN Stack |
+| 🛒 E-Commerce Application | Spring Boot + React + MySQL |
+| 📦 Product Management API | Spring Boot |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vignesh-530&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-530&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vignesh-530&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Vignesh-530&theme=algolia&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
-## 🌟 Visitor Counter
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-530&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🌟 Visitor Counter
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/vigneshpatel45/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://komarev.com/ghpvc/?username=Vignesh-530&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vigneshpatel45/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://github.com/Vignesh-530">
-<img src="https://skillicons.dev/icons?i=github"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Vignesh-530" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:vigneshpatelmudam074@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
-<a href="https://leetcode.com/u/vigneshpatel_45/">
-<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" >
-</a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💙 Thanks for Visiting!
+# 💙 Thanks for Visiting!
 
-<img width="350" src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-working-on-computer-5695778-4753874.png">
+<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### ⭐ Star my repositories if you find them useful!
+### ⭐ If you like my projects, don't forget to star my repositories!
+
+### Happy Coding! 🚀
 
 </div>
