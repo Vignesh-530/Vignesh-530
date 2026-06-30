@@ -1,15 +1,16 @@
-````markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Vignesh+Patel;Aspiring+Java+Developer;Spring+Boot+Developer;Full+Stack+Developer;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vignesh+Patel;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Backend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/rahul-jha98/README-Images/main/Programming.gif" width="450"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450" alt="Developer"/>
 
 # ☕ Java Full Stack Developer
 
-### Passionate about building scalable applications using Java, Spring Boot, React, SQL & MongoDB.
+### 🚀 Passionate about building scalable web applications using Java, Spring Boot, React, SQL & MongoDB.
+
+<img src="https://komarev.com/ghpvc/?username=Vignesh-530&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -17,16 +18,18 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/rahul-jha98/README-Images/main/Developer.gif"/>
+<img align="right" width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1wbGt4bW5lbDV1eGh6dTVrYmJ2bjNjdGg1M2N6NWYwZXBwd2E0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ```java
 public class Vignesh {
 
     String role = "Java Full Stack Developer";
 
-    String[] skills = {
+    String[] technologies = {
         "Java",
         "Spring Boot",
+        "Spring MVC",
+        "Spring Data JPA",
         "React",
         "REST APIs",
         "MySQL",
@@ -34,151 +37,62 @@ public class Vignesh {
         "PostgreSQL"
     };
 
-    String currentFocus = "Backend Development";
-
-    String learning = "Spring Security, Microservices, Docker";
+    String learning = "Spring Security, Docker, Microservices";
 
     String goal = "Software Engineer";
 
 }
-```
-
-- 🎓 Computer Science Engineering Graduate
-- ☕ Passionate Java Developer
-- 🌱 Currently learning **Spring Security, Docker & Microservices**
-- 💻 Interested in Backend & Full Stack Development
-- 📚 Solving DSA problems regularly
-- 🚀 Looking for Java Full Stack Developer opportunities
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,git,github,maven,idea,vscode,html,css,js"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
+🎓 Computer Science Engineering Graduate
+☕ Passionate about Backend Development
+🌱 Currently learning Spring Security, Docker & Microservices
+💻 Love building REST APIs and Full Stack Applications
+📚 Solving DSA problems regularly
+🚀 Looking for Java Developer opportunities
+⚙️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,git,github,maven,idea,vscode,html,css,js"/> </div>
+🚀 Featured Projects
+Project	Technology	Description
+🏥 Hospital Management System	Java • JDBC • MySQL	CRUD operations, Appointment & Patient Management
+🛒 E-Commerce Application	Spring Boot • React • MySQL	Product Management, REST APIs, Responsive UI
+🍔 Online Restaurant Application	MERN Stack	Food Ordering System with Authentication
+📦 Product Management API	Spring Boot • Spring Data JPA	RESTful CRUD APIs
+📊 GitHub Statistics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vignesh-530&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-530&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Vignesh-530&theme=tokyonight&hide_border=true"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Vignesh-530&theme=algolia&margin-w=15&margin-h=15"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-530&theme=tokyo-night"/> </div>
+📚 Currently Learning
+🌱 Spring Security
+🐳 Docker
+☁️ AWS
+⚙️ Microservices
+📖 System Design
+💡 Advanced DSA
+🤝 Connect With Me
+<div align="center"> <a href="mailto:vigneshpatelmudam074@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="55"/> </a> <a href="https://www.linkedin.com/in/vigneshpatel45/"> <img src="https://skillicons.dev/icons?i=linkedin" height="55"/> </a> <a href="https://github.com/Vignesh-530"> <img src="https://skillicons.dev/icons?i=github" height="55"/> </a> <a href="https://leetcode.com/u/vigneshpatel_45/"> <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="55"/> </a> </div>
 <div align="center">
-
-| 🚀 Project | 💻 Technology | ✨ Description |
-|------------|---------------|----------------|
-| 🏥 Hospital Management System | Java • JDBC • MySQL | Developed a hospital management application with CRUD operations for patients, doctors, and appointments. |
-| 🛒 E-Commerce Application | Spring Boot • React • MySQL | Built a full-stack e-commerce application with REST APIs, product management, and a responsive React frontend. |
-| 🍔 Online Restaurant Application | MERN Stack | Designed and developed a food ordering system with authentication and MongoDB integration. |
-| 📦 Product Management API | Spring Boot • Spring Data JPA • MySQL | Developed RESTful CRUD APIs using Spring Boot and JPA. |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vignesh-530&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-530&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vignesh-530&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vignesh-530&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-530&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- 🌱 Spring Security
-- 🐳 Docker
-- ☁️ AWS Basics
-- ⚙️ Microservices
-- 📖 System Design
-- 💡 Advanced Data Structures & Algorithms
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:vigneshpatelmudam074@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vigneshpatel45/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://github.com/Vignesh-530">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://leetcode.com/u/vigneshpatel_45/">
-<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="55"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vignesh-530&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
-
-# 💙 Thanks for Visiting!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Keep+Learning+Keep+Growing!;See+You+Again!+👋" />
+💙 Thanks for Visiting!
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Keep+Learning!;See+You+Again!+👋"/>
 
 <br><br>
 
-<img width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="350"/>
 
 <br><br>
 
-### ⭐ If you enjoyed my projects, please consider giving them a Star!
+⭐ If you like my projects, don't forget to Star my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/> </div> ```
+🚀 Bonus Recommendation
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,100:92FE9D&section=footer"/>
+For an even more impressive profile, you can add a snake contribution animation.
 
-</div>
-````
+Create a GitHub Actions workflow to generate it, then add this section to your README:
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Vignesh-530/Vignesh-530/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
