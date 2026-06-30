@@ -127,7 +127,6 @@ public class Vignesh {
 </div>
 
 ---
-
 # 🤝 Connect With Me
 
 <div align="center">
@@ -148,11 +147,13 @@ public class Vignesh {
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/vigneshpatel_45/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/>
+</a>
+
 </div>
-
----
-
-<div align="center">
 
 # 💙 Thanks for Visiting!
 
