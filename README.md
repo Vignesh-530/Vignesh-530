@@ -1,70 +1,142 @@
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | React JS | DSA
-</h3>
+<!-- ================= HERO SECTION ================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vignesh+Patel;Aspiring+Java+Developer;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Things!" />
+
+<br><br>
+
+<img width="420" src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-laptop-6299516-5187865.png">
+
+<h1>☕ Java Full Stack Developer</h1>
+
+<p>
+Building scalable applications with Java, Spring Boot, React, SQL and MongoDB.
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://cdn3d.iconscout.com/3d/premium/thumb/software-engineer-5695775-4753871.png">
+
+```java
+public class Vignesh {
+
+    String role = "Java Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "React",
+        "SQL",
+        "MongoDB"
+    };
+
+    String currentFocus = "Backend Development";
+
+    String goal = "Software Engineer";
+}
+```
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+JS+Developer;Open+to+Software+Engineer+Roles" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,git,github,vscode,idea,html,css,js,maven"/>
+
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Application
-Spring Boot + React + MySQL
+<div align="center">
 
+| 🚀 Project                    | 💻 Technology       |
+| ----------------------------- | ------------------- |
+| 🏥 Hospital Management System | Java + JDBC + MySQL |
+| 🍔 Online Restaurant App      | MERN Stack          |
+| 🎓 College Portal             | MERN Stack          |
+| 📦 Product Management API     | Spring Boot         |
 
-### 🏥 Hospital Management System
-Java + MySQL
+</div>
 
-### 🍽 Online Restaurant Application
-MERN Stack
-name: Generate Snake
+---
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+## 📊 GitHub Analytics
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+<p align="center">
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Vignesh-530
-          name: Generate Snake
-          <h1 align="center">Hi 👋, I'm Mudam Vignesh</h1>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vigneshpatel45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshpatel45" height="30" width="40" /></a>
-<a href="https://fb.com/vignesh patel mudam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vignesh patel mudam" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_bunny_patel45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_bunny_patel45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vigneshpatel_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vigneshpatel_45" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+## 🔥 GitHub Streak
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+<p align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Vignesh-530
-          ## 📫 Connect With Me
-Mudam Vignesh
-Java Full Stack Developer | Spring Boot Developer | React JS Developer
-[LinkedIn](https://linkedin.com/in/vigneshpatel45)
+</p>
 
-Email: vigneshpatelmudam074@gmail.com
-Mudam Vignesh
-Java Full Stack Developer | Spring Boot Developer | React JS Developer
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+## 🌟 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting!
+
+<img width="350" src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-working-on-computer-5695778-4753874.png">
+
+### ⭐ Star my repositories if you find them useful!
+
+</div>
